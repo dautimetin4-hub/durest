@@ -17,10 +17,16 @@ body {
 .carousel-caption {
     bottom: 50% !important;
 }
+.bg-orange{
+    background-color: #f8a000;
+}
 
 .hr {
     border-top: 3px solid white;
     opacity: 1;
     width: 150px;
     margin: 0 auto;
+}
+.icon{
+    width: 65px;
 }

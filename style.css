@@ -10,15 +10,16 @@
     color: #f8a000;
 }
 
+.bg-orange {
+    background-color: #f8a000;
+}
+
 body {
     height: 2000px;
 }
 
 .carousel-caption {
     bottom: 50% !important;
-}
-.bg-orange{
-    background-color: #f8a000;
 }
 
 .hr {
@@ -27,6 +28,7 @@ body {
     width: 150px;
     margin: 0 auto;
 }
-.icon{
+
+.icon {
     width: 65px;
 }
